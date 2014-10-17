@@ -1,0 +1,36 @@
+body {
+  font-family: 'lucida sans unicode', lucida grande, sans-serif;
+  font-weight: 300;
+  
+}
+
+#wrapper {
+                width: 960px;
+                margin: 20px auto;
+                padding: 20px;
+}
+
+img{
+                border: 1px solid blue;
+                border-radius: 999999999999px;
+              
+}
+
+h1{
+                color:blue;
+}
+
+h2{
+  color:white;
+}
+
+h3{
+  color:white;
+}
+
+h4{color:white;
+}
+
+li{
+  color:white;
+}
